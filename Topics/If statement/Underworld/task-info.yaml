@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # read the value from the input
+    coin = bool(int(input()))  # don't modify this line, please
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7076#comment
+status: Unchecked
+feedback:
+  message: "Failed to connect to server, check the Internet connection \n\nConnection\
+    \ reset"
+  time: Fri, 23 Jul 2021 10:56:28 UTC
+record: -1
